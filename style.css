@@ -1,0 +1,55 @@
+
+h1
+{
+	color: blue;
+}
+
+.etchbox
+{
+
+/*	border: 1px solid gray;
+*/	float: left;
+	display: inline;
+
+}
+
+.blackbox
+{
+	background-color: black;
+}
+
+.divisionbox
+{
+	clear: both;
+	height: 0px;
+}
+
+#etchbox-container
+{
+	border: 1px solid gray;
+	width: 600px;
+	height:600px;
+}
+
+div
+{
+	margin: 0px;
+}
+
+button
+{
+	float: left;
+}
+
+#buttonrow
+{ 	
+	height: 20px;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+#sizebutton
+{
+	margin-left: 20px;
+}
+
